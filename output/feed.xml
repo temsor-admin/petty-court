@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 13:14:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 14:54:41 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>Cruise Control Chaos: The Fanny Pack Feud!</title>
+      <description>Max and Ivy dive into the high seas of petty drama as one wife battles her husband's pocket pride on their first international cruise. Can a fanny pack truly be a 'women thing'? Source: r/AmItheAsshole.</description>
+      <guid isPermaLink="false">1w9dcc0</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1w9dcc0.mp3" length="6404397" type="audio/mpeg"/>
+      <pubDate>Mon, 07 Sep 2026 14:54:41 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>When Family Wi-Fi Becomes a Business Expense: The Ultimate Disconnect</title>
       <description>Max and Ivy tackle a tale of sibling rivalry, online businesses, and a very deliberate internet cutoff. This week's drama comes from r/AmItheAsshole.</description>

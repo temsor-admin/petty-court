@@ -56,7 +56,8 @@
     "1w4364z",
     "1w583hg",
     "1w5rykg",
-    "1w7262v"
+    "1w7262v",
+    "1w9dcc0"
   ],
   "episodes": [
     {
@@ -514,6 +515,14 @@
       "description": "Max and Ivy tackle a tale of sibling rivalry, online businesses, and a very deliberate internet cutoff. This week's drama comes from r/AmItheAsshole.",
       "length_bytes": 4558509,
       "pub_date": "2026-09-04T13:14:39.455974+00:00"
+    },
+    {
+      "id": "1w9dcc0",
+      "title": "Cruise Control Chaos: The Fanny Pack Feud!",
+      "audio": "1w9dcc0.mp3",
+      "description": "Max and Ivy dive into the high seas of petty drama as one wife battles her husband's pocket pride on their first international cruise. Can a fanny pack truly be a 'women thing'? Source: r/AmItheAsshole.",
+      "length_bytes": 6404397,
+      "pub_date": "2026-09-07T14:54:41.739262+00:00"
     }
   ]
 }
