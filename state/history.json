@@ -59,7 +59,8 @@
     "1w7262v",
     "1w9dcc0",
     "1w9w1ri",
-    "1wavqs3"
+    "1wavqs3",
+    "1wddkl4"
   ],
   "episodes": [
     {
@@ -541,6 +542,14 @@
       "description": "This week on Petty Court, Max and Ivy dissect a truly unhinged wedding party drama from r/AmItheAsshole where a best friend's honest opinion about the groom sparks a hilarious and revealing group chat meltdown. Was the truth-teller out of line, or did everyone finally just get real?",
       "length_bytes": 6301485,
       "pub_date": "2026-09-09T13:32:59.503559+00:00"
+    },
+    {
+      "id": "1wddkl4",
+      "title": "IVF Invoice: Grandma's Big Reveal or Baby Hostage Crisis?",
+      "audio": "1wddkl4.mp3",
+      "description": "This week on Petty Court, Max and Ivy dissect a Reddit story where a Mother-in-Law's generous gift of IVF funds comes with an unexpected, and incredibly public, price tag. Tune in to see if gratitude should trump basic human decency, as a pregnant woman battles for the right to name her own child.",
+      "length_bytes": 5909037,
+      "pub_date": "2026-09-11T13:22:14.039863+00:00"
     }
   ]
 }
