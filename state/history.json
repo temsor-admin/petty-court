@@ -60,7 +60,8 @@
     "1w9dcc0",
     "1w9w1ri",
     "1wavqs3",
-    "1wddkl4"
+    "1wddkl4",
+    "1wdkzwa"
   ],
   "episodes": [
     {
@@ -550,6 +551,14 @@
       "description": "This week on Petty Court, Max and Ivy dissect a Reddit story where a Mother-in-Law's generous gift of IVF funds comes with an unexpected, and incredibly public, price tag. Tune in to see if gratitude should trump basic human decency, as a pregnant woman battles for the right to name her own child.",
       "length_bytes": 5909037,
       "pub_date": "2026-09-11T13:22:14.039863+00:00"
+    },
+    {
+      "id": "1wdkzwa",
+      "title": "The Dog, The Ex, and The Audacity",
+      "audio": "1wdkzwa.mp3",
+      "description": "Today on Petty Court, Max and Ivy dissect a truly unhinged situation where one partner wants to bring his cheating ex-wife's special needs dog into the home, despite a no-contact boundary and an already overburdened partner. Get ready for some serious pet-parent drama sourced from r/AmItheAsshole!",
+      "length_bytes": 7658925,
+      "pub_date": "2026-09-12T12:45:03.402349+00:00"
     }
   ]
 }

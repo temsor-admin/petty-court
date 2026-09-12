@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 13:22:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 12:45:03 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>The Dog, The Ex, and The Audacity</title>
+      <description>Today on Petty Court, Max and Ivy dissect a truly unhinged situation where one partner wants to bring his cheating ex-wife's special needs dog into the home, despite a no-contact boundary and an already overburdened partner. Get ready for some serious pet-parent drama sourced from r/AmItheAsshole!</description>
+      <guid isPermaLink="false">1wdkzwa</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1wdkzwa.mp3" length="7658925" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Sep 2026 12:45:03 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>IVF Invoice: Grandma's Big Reveal or Baby Hostage Crisis?</title>
       <description>This week on Petty Court, Max and Ivy dissect a Reddit story where a Mother-in-Law's generous gift of IVF funds comes with an unexpected, and incredibly public, price tag. Tune in to see if gratitude should trump basic human decency, as a pregnant woman battles for the right to name her own child.</description>
