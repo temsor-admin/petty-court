@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2026 12:45:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 13:45:55 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>Locked Out &amp; Lathered Up: The Dog Shampoo Debacle</title>
+      <description>This week, Max and Ivy dissect a Reddit tale of family bathroom betrayal, locked doors, and an unexpected encounter with canine hygiene products. Based on a story from r/AmItheAsshole.</description>
+      <guid isPermaLink="false">1weq4az</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1weq4az.mp3" length="7573677" type="audio/mpeg"/>
+      <pubDate>Sun, 13 Sep 2026 13:45:55 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>The Dog, The Ex, and The Audacity</title>
       <description>Today on Petty Court, Max and Ivy dissect a truly unhinged situation where one partner wants to bring his cheating ex-wife's special needs dog into the home, despite a no-contact boundary and an already overburdened partner. Get ready for some serious pet-parent drama sourced from r/AmItheAsshole!</description>

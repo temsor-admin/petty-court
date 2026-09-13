@@ -61,7 +61,8 @@
     "1w9w1ri",
     "1wavqs3",
     "1wddkl4",
-    "1wdkzwa"
+    "1wdkzwa",
+    "1weq4az"
   ],
   "episodes": [
     {
@@ -559,6 +560,14 @@
       "description": "Today on Petty Court, Max and Ivy dissect a truly unhinged situation where one partner wants to bring his cheating ex-wife's special needs dog into the home, despite a no-contact boundary and an already overburdened partner. Get ready for some serious pet-parent drama sourced from r/AmItheAsshole!",
       "length_bytes": 7658925,
       "pub_date": "2026-09-12T12:45:03.402349+00:00"
+    },
+    {
+      "id": "1weq4az",
+      "title": "Locked Out & Lathered Up: The Dog Shampoo Debacle",
+      "audio": "1weq4az.mp3",
+      "description": "This week, Max and Ivy dissect a Reddit tale of family bathroom betrayal, locked doors, and an unexpected encounter with canine hygiene products. Based on a story from r/AmItheAsshole.",
+      "length_bytes": 7573677,
+      "pub_date": "2026-09-13T13:45:55.535110+00:00"
     }
   ]
 }
