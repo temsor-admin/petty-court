@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2026 13:45:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 15:46:25 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>Sun Baby, Secret Comics, and the Case of the Meddling Muse!</title>
+      <description>Max and Ivy dive into a Reddit drama where a husband's secret webcomic identity sparks a marital meltdown. Is he the A-hole for trying to protect his creative space? Tune in to Petty Court! (Source: r/AmItheAsshole)</description>
+      <guid isPermaLink="false">1wg1rx0</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1wg1rx0.mp3" length="6170925" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Sep 2026 15:46:25 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Locked Out &amp; Lathered Up: The Dog Shampoo Debacle</title>
       <description>This week, Max and Ivy dissect a Reddit tale of family bathroom betrayal, locked doors, and an unexpected encounter with canine hygiene products. Based on a story from r/AmItheAsshole.</description>

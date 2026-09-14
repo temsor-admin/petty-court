@@ -62,7 +62,8 @@
     "1wavqs3",
     "1wddkl4",
     "1wdkzwa",
-    "1weq4az"
+    "1weq4az",
+    "1wg1rx0"
   ],
   "episodes": [
     {
@@ -568,6 +569,14 @@
       "description": "This week, Max and Ivy dissect a Reddit tale of family bathroom betrayal, locked doors, and an unexpected encounter with canine hygiene products. Based on a story from r/AmItheAsshole.",
       "length_bytes": 7573677,
       "pub_date": "2026-09-13T13:45:55.535110+00:00"
+    },
+    {
+      "id": "1wg1rx0",
+      "title": "Sun Baby, Secret Comics, and the Case of the Meddling Muse!",
+      "audio": "1wg1rx0.mp3",
+      "description": "Max and Ivy dive into a Reddit drama where a husband's secret webcomic identity sparks a marital meltdown. Is he the A-hole for trying to protect his creative space? Tune in to Petty Court! (Source: r/AmItheAsshole)",
+      "length_bytes": 6170925,
+      "pub_date": "2026-09-14T15:46:25.561913+00:00"
     }
   ]
 }
