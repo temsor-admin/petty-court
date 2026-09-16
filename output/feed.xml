@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2026 14:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 14:08:35 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>Plus One, Plush One: The Wedding Stuffed Animal Showdown</title>
+      <description>Max and Ivy dissect a Reddit tale of a husband who left his wife at home for bringing a stuffed animal to a formal wedding, unveiling layers of past cruelty and profound grief. This week, we're asking: Was he a heartless jerk, or was he just trying to save face? (Source: r/AmItheAsshole)</description>
+      <guid isPermaLink="false">1wh4c6f</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1wh4c6f.mp3" length="7787949" type="audio/mpeg"/>
+      <pubDate>Wed, 16 Sep 2026 14:08:35 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>The Gift That Keeps On Crawling: An AITA Roach Tale</title>
       <description>Max and Ivy unpack a horrifying Reddit story about a family's well-meaning, but utterly infested, gifts. Is our letter writer the jerk for wanting to ban presents that come with six-legged hitchhikers? Source: r/AmItheAsshole.</description>
