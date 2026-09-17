@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 14:08:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 14:12:22 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>Road Rage, Cafe Confrontation, and a Slice of Satisfaction</title>
+      <description>Imagine having a terrible road rage encounter, only to then run into that exact person a few minutes later at your local cafe. This week, Max and Ivy dissect an r/AmItheAsshole tale of unexpected confrontations and public clapbacks.</description>
+      <guid isPermaLink="false">1wi4vyh</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1wi4vyh.mp3" length="5765037" type="audio/mpeg"/>
+      <pubDate>Thu, 17 Sep 2026 14:12:22 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Plus One, Plush One: The Wedding Stuffed Animal Showdown</title>
       <description>Max and Ivy dissect a Reddit tale of a husband who left his wife at home for bringing a stuffed animal to a formal wedding, unveiling layers of past cruelty and profound grief. This week, we're asking: Was he a heartless jerk, or was he just trying to save face? (Source: r/AmItheAsshole)</description>
