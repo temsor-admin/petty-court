@@ -66,7 +66,8 @@
     "1wg1rx0",
     "1wgkqnh",
     "1wh4c6f",
-    "1wi4vyh"
+    "1wi4vyh",
+    "1wj3d2j"
   ],
   "episodes": [
     {
@@ -604,6 +605,14 @@
       "description": "Imagine having a terrible road rage encounter, only to then run into that exact person a few minutes later at your local cafe. This week, Max and Ivy dissect an r/AmItheAsshole tale of unexpected confrontations and public clapbacks.",
       "length_bytes": 5765037,
       "pub_date": "2026-09-17T14:12:22.838391+00:00"
+    },
+    {
+      "id": "1wj3d2j",
+      "title": "Beachfront Bandit Bust",
+      "audio": "1wj3d2j.mp3",
+      "description": "Max and Ivy dive into a beach drama where a chill vacation turns into a full-blown police incident over pilfered beach gear. Was our OP right to stand on principle, or did they take 'finders keepers' too far? Based on a story from r/AmItheAsshole.",
+      "length_bytes": 6367149,
+      "pub_date": "2026-09-18T13:30:37.582564+00:00"
     }
   ]
 }

@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 14:12:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 13:30:37 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>Beachfront Bandit Bust</title>
+      <description>Max and Ivy dive into a beach drama where a chill vacation turns into a full-blown police incident over pilfered beach gear. Was our OP right to stand on principle, or did they take 'finders keepers' too far? Based on a story from r/AmItheAsshole.</description>
+      <guid isPermaLink="false">1wj3d2j</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1wj3d2j.mp3" length="6367149" type="audio/mpeg"/>
+      <pubDate>Fri, 18 Sep 2026 13:30:37 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Road Rage, Cafe Confrontation, and a Slice of Satisfaction</title>
       <description>Imagine having a terrible road rage encounter, only to then run into that exact person a few minutes later at your local cafe. This week, Max and Ivy dissect an r/AmItheAsshole tale of unexpected confrontations and public clapbacks.</description>
