@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 13:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 12:59:50 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>Too Gay To Wed? A Bridesman's Battle</title>
+      <description>This week on Petty Court, Max and Ivy dissect a Reddit tale from r/AmItheAsshole where a brother's "authentic self" clashes spectacularly with his sister's wedding day demands and conservative in-laws.</description>
+      <guid isPermaLink="false">1wkjzec</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1wkjzec.mp3" length="8246829" type="audio/mpeg"/>
+      <pubDate>Sat, 19 Sep 2026 12:59:50 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Beachfront Bandit Bust</title>
       <description>Max and Ivy dive into a beach drama where a chill vacation turns into a full-blown police incident over pilfered beach gear. Was our OP right to stand on principle, or did they take 'finders keepers' too far? Based on a story from r/AmItheAsshole.</description>

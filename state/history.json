@@ -67,7 +67,8 @@
     "1wgkqnh",
     "1wh4c6f",
     "1wi4vyh",
-    "1wj3d2j"
+    "1wj3d2j",
+    "1wkjzec"
   ],
   "episodes": [
     {
@@ -613,6 +614,14 @@
       "description": "Max and Ivy dive into a beach drama where a chill vacation turns into a full-blown police incident over pilfered beach gear. Was our OP right to stand on principle, or did they take 'finders keepers' too far? Based on a story from r/AmItheAsshole.",
       "length_bytes": 6367149,
       "pub_date": "2026-09-18T13:30:37.582564+00:00"
+    },
+    {
+      "id": "1wkjzec",
+      "title": "Too Gay To Wed? A Bridesman's Battle",
+      "audio": "1wkjzec.mp3",
+      "description": "This week on Petty Court, Max and Ivy dissect a Reddit tale from r/AmItheAsshole where a brother's \"authentic self\" clashes spectacularly with his sister's wedding day demands and conservative in-laws.",
+      "length_bytes": 8246829,
+      "pub_date": "2026-09-19T12:59:50.484725+00:00"
     }
   ]
 }
