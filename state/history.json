@@ -68,7 +68,8 @@
     "1wh4c6f",
     "1wi4vyh",
     "1wj3d2j",
-    "1wkjzec"
+    "1wkjzec",
+    "1wl4od4"
   ],
   "episodes": [
     {
@@ -622,6 +623,14 @@
       "description": "This week on Petty Court, Max and Ivy dissect a Reddit tale from r/AmItheAsshole where a brother's \"authentic self\" clashes spectacularly with his sister's wedding day demands and conservative in-laws.",
       "length_bytes": 8246829,
       "pub_date": "2026-09-19T12:59:50.484725+00:00"
+    },
+    {
+      "id": "1wl4od4",
+      "title": "Operation: Missing MOH",
+      "audio": "1wl4od4.mp3",
+      "description": "This week on Petty Court, Max and Ivy dissect the case of a Maid of Honor who went completely AWOL just weeks before the wedding. Was the bride wrong to issue a final ultimatum? Source: r/AmItheAsshole",
+      "length_bytes": 4177197,
+      "pub_date": "2026-09-20T13:32:48.768487+00:00"
     }
   ]
 }

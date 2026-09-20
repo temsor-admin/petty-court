@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2026 12:59:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 13:32:48 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>Operation: Missing MOH</title>
+      <description>This week on Petty Court, Max and Ivy dissect the case of a Maid of Honor who went completely AWOL just weeks before the wedding. Was the bride wrong to issue a final ultimatum? Source: r/AmItheAsshole</description>
+      <guid isPermaLink="false">1wl4od4</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1wl4od4.mp3" length="4177197" type="audio/mpeg"/>
+      <pubDate>Sun, 20 Sep 2026 13:32:48 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Too Gay To Wed? A Bridesman's Battle</title>
       <description>This week on Petty Court, Max and Ivy dissect a Reddit tale from r/AmItheAsshole where a brother's "authentic self" clashes spectacularly with his sister's wedding day demands and conservative in-laws.</description>
