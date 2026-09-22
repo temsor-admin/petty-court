@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Sep 2026 13:32:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 14:00:00 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>The Cockblock Commuter: A Tale of Friendship and Questionable Priorities</title>
+      <description>This week on Petty Court, Max and Ivy dissect a Reddit story from r/AmItheAsshole about a 'friend' who tries to turn a football road trip into a late-night hookup, leaving our OP in the lurch. Tune in for laughs, outrage, and a very strong defense of designated drivers.</description>
+      <guid isPermaLink="false">1wn7bs9</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1wn7bs9.mp3" length="6208557" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Sep 2026 14:00:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Operation: Missing MOH</title>
       <description>This week on Petty Court, Max and Ivy dissect the case of a Maid of Honor who went completely AWOL just weeks before the wedding. Was the bride wrong to issue a final ultimatum? Source: r/AmItheAsshole</description>

@@ -69,7 +69,8 @@
     "1wi4vyh",
     "1wj3d2j",
     "1wkjzec",
-    "1wl4od4"
+    "1wl4od4",
+    "1wn7bs9"
   ],
   "episodes": [
     {
@@ -631,6 +632,14 @@
       "description": "This week on Petty Court, Max and Ivy dissect the case of a Maid of Honor who went completely AWOL just weeks before the wedding. Was the bride wrong to issue a final ultimatum? Source: r/AmItheAsshole",
       "length_bytes": 4177197,
       "pub_date": "2026-09-20T13:32:48.768487+00:00"
+    },
+    {
+      "id": "1wn7bs9",
+      "title": "The Cockblock Commuter: A Tale of Friendship and Questionable Priorities",
+      "audio": "1wn7bs9.mp3",
+      "description": "This week on Petty Court, Max and Ivy dissect a Reddit story from r/AmItheAsshole about a 'friend' who tries to turn a football road trip into a late-night hookup, leaving our OP in the lurch. Tune in for laughs, outrage, and a very strong defense of designated drivers.",
+      "length_bytes": 6208557,
+      "pub_date": "2026-09-22T14:00:00.627348+00:00"
     }
   ]
 }
