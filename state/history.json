@@ -70,7 +70,8 @@
     "1wj3d2j",
     "1wkjzec",
     "1wl4od4",
-    "1wn7bs9"
+    "1wn7bs9",
+    "1wo5kbb"
   ],
   "episodes": [
     {
@@ -640,6 +641,14 @@
       "description": "This week on Petty Court, Max and Ivy dissect a Reddit story from r/AmItheAsshole about a 'friend' who tries to turn a football road trip into a late-night hookup, leaving our OP in the lurch. Tune in for laughs, outrage, and a very strong defense of designated drivers.",
       "length_bytes": 6208557,
       "pub_date": "2026-09-22T14:00:00.627348+00:00"
+    },
+    {
+      "id": "1wo5kbb",
+      "title": "Pink Justice: The Petty Manager Who Painted a Homophobe Pink",
+      "audio": "1wo5kbb.mp3",
+      "description": "Today on Petty Court, Max and Ivy dissect the tale of a landscaping manager who found a brilliantly colorful way to deal with a homophobic employee when corporate wouldn't. Get ready for some sweet, strawberry-scented revenge! (Source: r/AmItheAsshole)",
+      "length_bytes": 5955885,
+      "pub_date": "2026-09-23T14:10:53.176609+00:00"
     }
   ]
 }
