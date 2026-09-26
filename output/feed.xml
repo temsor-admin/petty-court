@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2026 14:10:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 13:42:35 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>Surprise! It's My Homeless Internet Friend and Their Psycho Mom!</title>
+      <description>Max and Ivy dissect a wild tale where an internet friend shows up unannounced and unhoused, bringing along a truly unhinged parent. Is it okay to draw a boundary when personal safety and sanity are on the line? (Based on a story from r/AmItheAsshole)</description>
+      <guid isPermaLink="false">1wq0tg5</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1wq0tg5.mp3" length="5900589" type="audio/mpeg"/>
+      <pubDate>Sat, 26 Sep 2026 13:42:35 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Pink Justice: The Petty Manager Who Painted a Homophobe Pink</title>
       <description>Today on Petty Court, Max and Ivy dissect the tale of a landscaping manager who found a brilliantly colorful way to deal with a homophobic employee when corporate wouldn't. Get ready for some sweet, strawberry-scented revenge! (Source: r/AmItheAsshole)</description>

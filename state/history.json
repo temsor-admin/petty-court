@@ -71,7 +71,8 @@
     "1wkjzec",
     "1wl4od4",
     "1wn7bs9",
-    "1wo5kbb"
+    "1wo5kbb",
+    "1wq0tg5"
   ],
   "episodes": [
     {
@@ -649,6 +650,14 @@
       "description": "Today on Petty Court, Max and Ivy dissect the tale of a landscaping manager who found a brilliantly colorful way to deal with a homophobic employee when corporate wouldn't. Get ready for some sweet, strawberry-scented revenge! (Source: r/AmItheAsshole)",
       "length_bytes": 5955885,
       "pub_date": "2026-09-23T14:10:53.176609+00:00"
+    },
+    {
+      "id": "1wq0tg5",
+      "title": "Surprise! It's My Homeless Internet Friend and Their Psycho Mom!",
+      "audio": "1wq0tg5.mp3",
+      "description": "Max and Ivy dissect a wild tale where an internet friend shows up unannounced and unhoused, bringing along a truly unhinged parent. Is it okay to draw a boundary when personal safety and sanity are on the line? (Based on a story from r/AmItheAsshole)",
+      "length_bytes": 5900589,
+      "pub_date": "2026-09-26T13:42:35.870371+00:00"
     }
   ]
 }
