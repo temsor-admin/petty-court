@@ -72,7 +72,8 @@
     "1wl4od4",
     "1wn7bs9",
     "1wo5kbb",
-    "1wq0tg5"
+    "1wq0tg5",
+    "1wr5uk6"
   ],
   "episodes": [
     {
@@ -658,6 +659,14 @@
       "description": "Max and Ivy dissect a wild tale where an internet friend shows up unannounced and unhoused, bringing along a truly unhinged parent. Is it okay to draw a boundary when personal safety and sanity are on the line? (Based on a story from r/AmItheAsshole)",
       "length_bytes": 5900589,
       "pub_date": "2026-09-26T13:42:35.870371+00:00"
+    },
+    {
+      "id": "1wr5uk6",
+      "title": "Turkey Trouble: Bob's Chaotic Thanksgiving Takeover",
+      "audio": "1wr5uk6.mp3",
+      "description": "This week on Petty Court, Max and Ivy dissect a truly unhinged Thanksgiving drama from r/AmItheAsshole where one spouse is ready to cancel the whole holiday over uninvited guests and a brother-in-law's chaotic dating life.",
+      "length_bytes": 6090285,
+      "pub_date": "2026-09-27T14:38:32.336921+00:00"
     }
   ]
 }
