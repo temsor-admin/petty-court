@@ -73,7 +73,8 @@
     "1wn7bs9",
     "1wo5kbb",
     "1wq0tg5",
-    "1wr5uk6"
+    "1wr5uk6",
+    "1wrqc1k"
   ],
   "episodes": [
     {
@@ -667,6 +668,14 @@
       "description": "This week on Petty Court, Max and Ivy dissect a truly unhinged Thanksgiving drama from r/AmItheAsshole where one spouse is ready to cancel the whole holiday over uninvited guests and a brother-in-law's chaotic dating life.",
       "length_bytes": 6090285,
       "pub_date": "2026-09-27T14:38:32.336921+00:00"
+    },
+    {
+      "id": "1wrqc1k",
+      "title": "Chocolate Chip Terrorism: The MIL Who Doused a Grieving Man's Birthday",
+      "audio": "1wrqc1k.mp3",
+      "description": "A heartbroken husband's birthday turns into a chocolate-chip-dusted nightmare thanks to his manipulative MIL. Max and Ivy break down the passive-aggressive warfare from r/AmItheAsshole.",
+      "length_bytes": 10256685,
+      "pub_date": "2026-09-28T17:30:01.156227+00:00"
     }
   ]
 }
