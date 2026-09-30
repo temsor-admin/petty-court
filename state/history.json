@@ -75,7 +75,8 @@
     "1wq0tg5",
     "1wr5uk6",
     "1wrqc1k",
-    "1wt8m45"
+    "1wt8m45",
+    "1wtoe58"
   ],
   "episodes": [
     {
@@ -685,6 +686,14 @@
       "description": "This week on Petty Court, Max and Ivy dissect a Reddit tale of linguistic drama where a girlfriend's noble quest to learn Spanish for her boyfriend's family ignites a full-blown apartment war. Is she the jerk for butchering the language, or is he just a gatekeeping grump? (r/AmItheAsshole)",
       "length_bytes": 7908525,
       "pub_date": "2026-09-29T15:29:16.872624+00:00"
+    },
+    {
+      "id": "1wtoe58",
+      "title": "Howdy, Y'all: The Great Texas In-Law Deception!",
+      "audio": "1wtoe58.mp3",
+      "description": "Today on Petty Court, Max and Ivy dissect a Reddit tale of a husband who spun a hilarious web of 'Texas rules' for his Colombian father-in-law, leading to cowboy hats, sincere 'howdys,' and TikTok fame. Based on a story from r/AmItheAsshole.",
+      "length_bytes": 5857197,
+      "pub_date": "2026-09-30T15:45:07.776773+00:00"
     }
   ]
 }
