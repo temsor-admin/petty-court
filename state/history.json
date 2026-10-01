@@ -76,7 +76,8 @@
     "1wr5uk6",
     "1wrqc1k",
     "1wt8m45",
-    "1wtoe58"
+    "1wtoe58",
+    "1wv0h8m"
   ],
   "episodes": [
     {
@@ -694,6 +695,14 @@
       "description": "Today on Petty Court, Max and Ivy dissect a Reddit tale of a husband who spun a hilarious web of 'Texas rules' for his Colombian father-in-law, leading to cowboy hats, sincere 'howdys,' and TikTok fame. Based on a story from r/AmItheAsshole.",
       "length_bytes": 5857197,
       "pub_date": "2026-09-30T15:45:07.776773+00:00"
+    },
+    {
+      "id": "1wv0h8m",
+      "title": "The $1,200 Cake of Emotional Frosting",
+      "audio": "1wv0h8m.mp3",
+      "description": "Max and Ivy dig into a Reddit story where a five-year-old Father's Day cake disaster, involving a brand new car and a brutal comment, threatens a family's cookie decorating tradition. Was he the AITA for making his wife cry over cake? (Source: r/AmItheAsshole)",
+      "length_bytes": 6698925,
+      "pub_date": "2026-10-01T16:12:52.042669+00:00"
     }
   ]
 }
