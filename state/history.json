@@ -78,7 +78,8 @@
     "1wt8m45",
     "1wtoe58",
     "1wv0h8m",
-    "1wvm97k"
+    "1wvm97k",
+    "1wvzz03"
   ],
   "episodes": [
     {
@@ -712,6 +713,14 @@
       "description": "This week on Petty Court, Max and Ivy dissect a Reddit story about a wife whose beloved TV show ritual is being destroyed by her phone-addicted, sleep-prone husband. Is she the A-hole for wanting to watch alone? Source: r/AmItheAsshole.",
       "length_bytes": 7784109,
       "pub_date": "2026-10-02T15:34:08.164877+00:00"
+    },
+    {
+      "id": "1wvzz03",
+      "title": "Blunt Truth & Blunt Smoke",
+      "audio": "1wvzz03.mp3",
+      "description": "Max and Ivy light up a sticky situation where family priorities get hazy. This week, we dive into a Reddit story from r/AmItheAsshole about a mother's wish for closeness clashing with her past choices, leading to one very blunt conversation.",
+      "length_bytes": 5833389,
+      "pub_date": "2026-10-03T14:13:53.832861+00:00"
     }
   ]
 }
