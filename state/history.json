@@ -80,7 +80,8 @@
     "1wv0h8m",
     "1wvm97k",
     "1wvzz03",
-    "1wwteym"
+    "1wwteym",
+    "1wy80z7"
   ],
   "episodes": [
     {
@@ -730,6 +731,14 @@
       "description": "On today's episode of Petty Court, Max and Ivy dive into the ultimate broadband betrayal from r/AmItheAsshole, where shared internet turns into a saga of non-payment and digital cut-offs. Find out what happens when a kind gesture becomes a petty war for bandwidth!",
       "length_bytes": 5910189,
       "pub_date": "2026-10-04T14:43:23.628454+00:00"
+    },
+    {
+      "id": "1wy80z7",
+      "title": "The Petty Platter: Wedding Edition",
+      "audio": "1wy80z7.mp3",
+      "description": "This week on Petty Court, Max and Ivy dissect a Reddit tale of a childhood best friend disinvited from a wedding just days before, leading to a truly delicious dilemma. Who's the real villain in this r/AmItheAsshole catering catastrophe?",
+      "length_bytes": 6700845,
+      "pub_date": "2026-10-05T18:05:24.502616+00:00"
     }
   ]
 }

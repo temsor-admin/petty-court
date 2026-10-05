@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 14:43:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 18:05:24 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>The Petty Platter: Wedding Edition</title>
+      <description>This week on Petty Court, Max and Ivy dissect a Reddit tale of a childhood best friend disinvited from a wedding just days before, leading to a truly delicious dilemma. Who's the real villain in this r/AmItheAsshole catering catastrophe?</description>
+      <guid isPermaLink="false">1wy80z7</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1wy80z7.mp3" length="6700845" type="audio/mpeg"/>
+      <pubDate>Mon, 05 Oct 2026 18:05:24 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Petty Court: The Great WiFi Heist</title>
       <description>On today's episode of Petty Court, Max and Ivy dive into the ultimate broadband betrayal from r/AmItheAsshole, where shared internet turns into a saga of non-payment and digital cut-offs. Find out what happens when a kind gesture becomes a petty war for bandwidth!</description>
