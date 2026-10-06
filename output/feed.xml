@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 18:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 15:49:27 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>The Data Center Guru vs. The Trauma Guardian</title>
+      <description>Max and Ivy tackle a truly baffling dating dilemma from r/AmItheAsshole. When a new guardian confides in her casual date about a difficult situation, his 'advice' goes off the rails. Who needs data center debates when you're navigating actual human emotions?</description>
+      <guid isPermaLink="false">1wypsyj</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1wypsyj.mp3" length="6111405" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Oct 2026 15:49:27 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>The Petty Platter: Wedding Edition</title>
       <description>This week on Petty Court, Max and Ivy dissect a Reddit tale of a childhood best friend disinvited from a wedding just days before, leading to a truly delicious dilemma. Who's the real villain in this r/AmItheAsshole catering catastrophe?</description>

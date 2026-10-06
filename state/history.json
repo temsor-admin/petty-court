@@ -81,7 +81,8 @@
     "1wvm97k",
     "1wvzz03",
     "1wwteym",
-    "1wy80z7"
+    "1wy80z7",
+    "1wypsyj"
   ],
   "episodes": [
     {
@@ -739,6 +740,14 @@
       "description": "This week on Petty Court, Max and Ivy dissect a Reddit tale of a childhood best friend disinvited from a wedding just days before, leading to a truly delicious dilemma. Who's the real villain in this r/AmItheAsshole catering catastrophe?",
       "length_bytes": 6700845,
       "pub_date": "2026-10-05T18:05:24.502616+00:00"
+    },
+    {
+      "id": "1wypsyj",
+      "title": "The Data Center Guru vs. The Trauma Guardian",
+      "audio": "1wypsyj.mp3",
+      "description": "Max and Ivy tackle a truly baffling dating dilemma from r/AmItheAsshole. When a new guardian confides in her casual date about a difficult situation, his 'advice' goes off the rails. Who needs data center debates when you're navigating actual human emotions?",
+      "length_bytes": 6111405,
+      "pub_date": "2026-10-06T15:49:27.475221+00:00"
     }
   ]
 }
