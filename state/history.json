@@ -82,7 +82,8 @@
     "1wvzz03",
     "1wwteym",
     "1wy80z7",
-    "1wypsyj"
+    "1wypsyj",
+    "1wzcll7"
   ],
   "episodes": [
     {
@@ -748,6 +749,14 @@
       "description": "Max and Ivy tackle a truly baffling dating dilemma from r/AmItheAsshole. When a new guardian confides in her casual date about a difficult situation, his 'advice' goes off the rails. Who needs data center debates when you're navigating actual human emotions?",
       "length_bytes": 6111405,
       "pub_date": "2026-10-06T15:49:27.475221+00:00"
+    },
+    {
+      "id": "1wzcll7",
+      "title": "Tequila, Tears, and Tossing Out the Toxic Sister",
+      "audio": "1wzcll7.mp3",
+      "description": "Max and Ivy dive into a wedding reception gone wild, where a secret tequila stash turns a celebration into a full-blown family meltdown. Get ready for some dramatic readings and even more dramatic opinions! Sourced from r/AmItheAsshole.",
+      "length_bytes": 7185069,
+      "pub_date": "2026-10-07T16:12:55.100809+00:00"
     }
   ]
 }

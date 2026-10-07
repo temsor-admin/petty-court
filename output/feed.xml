@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 15:49:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 16:12:55 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>Tequila, Tears, and Tossing Out the Toxic Sister</title>
+      <description>Max and Ivy dive into a wedding reception gone wild, where a secret tequila stash turns a celebration into a full-blown family meltdown. Get ready for some dramatic readings and even more dramatic opinions! Sourced from r/AmItheAsshole.</description>
+      <guid isPermaLink="false">1wzcll7</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1wzcll7.mp3" length="7185069" type="audio/mpeg"/>
+      <pubDate>Wed, 07 Oct 2026 16:12:55 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>The Data Center Guru vs. The Trauma Guardian</title>
       <description>Max and Ivy tackle a truly baffling dating dilemma from r/AmItheAsshole. When a new guardian confides in her casual date about a difficult situation, his 'advice' goes off the rails. Who needs data center debates when you're navigating actual human emotions?</description>
