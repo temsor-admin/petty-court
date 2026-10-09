@@ -84,7 +84,8 @@
     "1wy80z7",
     "1wypsyj",
     "1wzcll7",
-    "1x0tky2"
+    "1x0tky2",
+    "1x11e16"
   ],
   "episodes": [
     {
@@ -766,6 +767,14 @@
       "description": "Max and Ivy dissect a Reddit story where a young woman's arranged marriage proposal takes a hilariously disastrous turn, leaving everyone speechless – except her. Find out why her 'unladylike' laughter has the internet cheering and one family seeing red, courtesy of r/AmItheAsshole.",
       "length_bytes": 7331757,
       "pub_date": "2026-10-08T16:13:50.186885+00:00"
+    },
+    {
+      "id": "1x11e16",
+      "title": "Burn Notice: The Scorched Plant Saga",
+      "audio": "1x11e16.mp3",
+      "description": "Max and Ivy dissect a fiery Reddit tale from r/AmItheAsshole where a roommate's questionable plant placement meets an oven's reality, sparking a hilarious and heated debate over who's really the 'klutz.' Get ready for some scorching takes!",
+      "length_bytes": 5960877,
+      "pub_date": "2026-10-09T15:55:45.025242+00:00"
     }
   ]
 }

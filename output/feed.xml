@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 16:13:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 15:55:45 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>Burn Notice: The Scorched Plant Saga</title>
+      <description>Max and Ivy dissect a fiery Reddit tale from r/AmItheAsshole where a roommate's questionable plant placement meets an oven's reality, sparking a hilarious and heated debate over who's really the 'klutz.' Get ready for some scorching takes!</description>
+      <guid isPermaLink="false">1x11e16</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1x11e16.mp3" length="5960877" type="audio/mpeg"/>
+      <pubDate>Fri, 09 Oct 2026 15:55:45 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Grandson Gaffe: The Proposal That Laughed Back</title>
       <description>Max and Ivy dissect a Reddit story where a young woman's arranged marriage proposal takes a hilariously disastrous turn, leaving everyone speechless – except her. Find out why her 'unladylike' laughter has the internet cheering and one family seeing red, courtesy of r/AmItheAsshole.</description>
