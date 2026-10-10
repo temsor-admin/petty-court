@@ -85,7 +85,8 @@
     "1wypsyj",
     "1wzcll7",
     "1x0tky2",
-    "1x11e16"
+    "1x11e16",
+    "1x1s741"
   ],
   "episodes": [
     {
@@ -775,6 +776,14 @@
       "description": "Max and Ivy dissect a fiery Reddit tale from r/AmItheAsshole where a roommate's questionable plant placement meets an oven's reality, sparking a hilarious and heated debate over who's really the 'klutz.' Get ready for some scorching takes!",
       "length_bytes": 5960877,
       "pub_date": "2026-10-09T15:55:45.025242+00:00"
+    },
+    {
+      "id": "1x1s741",
+      "title": "The £5 Pizza Betrayal & The Phantom Wedding Invite",
+      "audio": "1x1s741.mp3",
+      "description": "This week on Petty Court, Max and Ivy dissect a Reddit story from r/AmItheAsshole about a couple who realized their 'friends' were incredibly cheap, leading to a dramatic wedding RSVP dilemma. Get ready for some serious budget-busting banter!",
+      "length_bytes": 6623277,
+      "pub_date": "2026-10-10T15:09:00.586524+00:00"
     }
   ]
 }
