@@ -86,7 +86,8 @@
     "1wzcll7",
     "1x0tky2",
     "1x11e16",
-    "1x1s741"
+    "1x1s741",
+    "1x2um8z"
   ],
   "episodes": [
     {
@@ -784,6 +785,14 @@
       "description": "This week on Petty Court, Max and Ivy dissect a Reddit story from r/AmItheAsshole about a couple who realized their 'friends' were incredibly cheap, leading to a dramatic wedding RSVP dilemma. Get ready for some serious budget-busting banter!",
       "length_bytes": 6623277,
       "pub_date": "2026-10-10T15:09:00.586524+00:00"
+    },
+    {
+      "id": "1x2um8z",
+      "title": "Branch Campus Burn: A Degree in Drama",
+      "audio": "1x2um8z.mp3",
+      "description": "This week on Petty Court, Max and Ivy dissect a family dinner gone wrong when a seemingly innocent conversation about college turns into an academic smackdown. Whose degree is bigger? And was the low blow justified? (Source: r/AmItheAsshole)",
+      "length_bytes": 6356397,
+      "pub_date": "2026-10-11T15:25:41.737926+00:00"
     }
   ]
 }

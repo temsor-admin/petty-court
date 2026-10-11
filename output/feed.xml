@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 15:09:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 15:25:41 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>Branch Campus Burn: A Degree in Drama</title>
+      <description>This week on Petty Court, Max and Ivy dissect a family dinner gone wrong when a seemingly innocent conversation about college turns into an academic smackdown. Whose degree is bigger? And was the low blow justified? (Source: r/AmItheAsshole)</description>
+      <guid isPermaLink="false">1x2um8z</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1x2um8z.mp3" length="6356397" type="audio/mpeg"/>
+      <pubDate>Sun, 11 Oct 2026 15:25:41 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>The £5 Pizza Betrayal &amp; The Phantom Wedding Invite</title>
       <description>This week on Petty Court, Max and Ivy dissect a Reddit story from r/AmItheAsshole about a couple who realized their 'friends' were incredibly cheap, leading to a dramatic wedding RSVP dilemma. Get ready for some serious budget-busting banter!</description>
