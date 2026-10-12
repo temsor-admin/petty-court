@@ -87,7 +87,8 @@
     "1x0tky2",
     "1x11e16",
     "1x1s741",
-    "1x2um8z"
+    "1x2um8z",
+    "1x3p2g8"
   ],
   "episodes": [
     {
@@ -793,6 +794,14 @@
       "description": "This week on Petty Court, Max and Ivy dissect a family dinner gone wrong when a seemingly innocent conversation about college turns into an academic smackdown. Whose degree is bigger? And was the low blow justified? (Source: r/AmItheAsshole)",
       "length_bytes": 6356397,
       "pub_date": "2026-10-11T15:25:41.737926+00:00"
+    },
+    {
+      "id": "1x3p2g8",
+      "title": "Couch Chaos & Mystery Stains: The Price of Hospitality",
+      "audio": "1x3p2g8.mp3",
+      "description": "This week on Petty Court, Max and Ivy dissect the sticky situation of a kind host, a wild one-night stand, and the mystery stains left behind. Source: r/AmItheAsshole.",
+      "length_bytes": 7115565,
+      "pub_date": "2026-10-12T18:44:44.283961+00:00"
     }
   ]
 }
