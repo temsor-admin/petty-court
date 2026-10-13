@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 18:44:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 16:49:03 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>The Fillet Feud: A Steak of Disobedience</title>
+      <description>Max and Ivy sink their teeth into a juicy family drama where one Redditor is fed up with being the designated steak chef for their brother's impromptu cravings. Was setting a firm boundary a recipe for disaster, or perfectly justified? (Source: r/AmItheAsshole)</description>
+      <guid isPermaLink="false">1x4u4qb</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1x4u4qb.mp3" length="7332525" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Oct 2026 16:49:03 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Couch Chaos &amp; Mystery Stains: The Price of Hospitality</title>
       <description>This week on Petty Court, Max and Ivy dissect the sticky situation of a kind host, a wild one-night stand, and the mystery stains left behind. Source: r/AmItheAsshole.</description>
