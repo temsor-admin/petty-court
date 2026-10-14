@@ -89,7 +89,8 @@
     "1x1s741",
     "1x2um8z",
     "1x3p2g8",
-    "1x4u4qb"
+    "1x4u4qb",
+    "1x5l1bo"
   ],
   "episodes": [
     {
@@ -811,6 +812,14 @@
       "description": "Max and Ivy sink their teeth into a juicy family drama where one Redditor is fed up with being the designated steak chef for their brother's impromptu cravings. Was setting a firm boundary a recipe for disaster, or perfectly justified? (Source: r/AmItheAsshole)",
       "length_bytes": 7332525,
       "pub_date": "2026-10-13T16:49:03.555568+00:00"
+    },
+    {
+      "id": "1x5l1bo",
+      "title": "Roach Church: Pastor Chad's Pest Problem & Petty Payback",
+      "audio": "1x5l1bo.mp3",
+      "description": "Max and Ivy dive into a church drama featuring a new pastor, a beloved grandma, and a full-blown roach infestation. Was our listener right to call the health department? We discuss! Story credit to r/AmItheAsshole.",
+      "length_bytes": 5777325,
+      "pub_date": "2026-10-14T14:26:04.352083+00:00"
     }
   ]
 }
