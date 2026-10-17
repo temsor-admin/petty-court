@@ -90,7 +90,8 @@
     "1x2um8z",
     "1x3p2g8",
     "1x4u4qb",
-    "1x5l1bo"
+    "1x5l1bo",
+    "1x80ykf"
   ],
   "episodes": [
     {
@@ -820,6 +821,14 @@
       "description": "Max and Ivy dive into a church drama featuring a new pastor, a beloved grandma, and a full-blown roach infestation. Was our listener right to call the health department? We discuss! Story credit to r/AmItheAsshole.",
       "length_bytes": 5777325,
       "pub_date": "2026-10-14T14:26:04.352083+00:00"
+    },
+    {
+      "id": "1x80ykf",
+      "title": "Code Red for Attention: The ER Text & School Showdown",
+      "audio": "1x80ykf.mp3",
+      "description": "Today on Petty Court, a grandmother fakes a medical emergency to get a text back, leading to an epic showdown over school pickup. We're diving into attention-seeking antics and how far is too far, sourced from r/AmItheAsshole.",
+      "length_bytes": 5184429,
+      "pub_date": "2026-10-17T12:47:22.730133+00:00"
     }
   ]
 }
