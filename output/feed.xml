@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 12:47:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 13:04:48 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>Banana Republic of Spouses: Misophonia, Mouth-Chewing, and Marriage Meltdowns</title>
+      <description>This week on Petty Court, Max and Ivy dive into a Reddit AITA post about a wife's misophonia, her husband's banana habits, and some truly disgusting sounds that are *within* his control. It's a sticky situation from r/AmItheAsshole that will make you rethink your snack choices.</description>
+      <guid isPermaLink="false">1x8eu5k</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1x8eu5k.mp3" length="6538029" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Oct 2026 13:04:48 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Code Red for Attention: The ER Text &amp; School Showdown</title>
       <description>Today on Petty Court, a grandmother fakes a medical emergency to get a text back, leading to an epic showdown over school pickup. We're diving into attention-seeking antics and how far is too far, sourced from r/AmItheAsshole.</description>
