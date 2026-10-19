@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2026 13:04:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 16:33:29 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>Board Certified Petty: When His Hobby Trumps Your Wood</title>
+      <description>This week on Petty Court, Max and Ivy dissect a domestic dispute rooted in carpentry and a husband's shocking disregard for his wife's craft. Is our soap-making OP an 'asshole' for losing it over a pilfered plank? Find out, as we deep dive into the sticky situation of drying lumber and dodgy responses. Story credit: r/AmItheAsshole.</description>
+      <guid isPermaLink="false">1x9d4k1</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1x9d4k1.mp3" length="6336045" type="audio/mpeg"/>
+      <pubDate>Mon, 19 Oct 2026 16:33:29 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Banana Republic of Spouses: Misophonia, Mouth-Chewing, and Marriage Meltdowns</title>
       <description>This week on Petty Court, Max and Ivy dive into a Reddit AITA post about a wife's misophonia, her husband's banana habits, and some truly disgusting sounds that are *within* his control. It's a sticky situation from r/AmItheAsshole that will make you rethink your snack choices.</description>
