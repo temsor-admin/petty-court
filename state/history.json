@@ -93,7 +93,8 @@
     "1x5l1bo",
     "1x80ykf",
     "1x8eu5k",
-    "1x9d4k1"
+    "1x9d4k1",
+    "1xae4cp"
   ],
   "episodes": [
     {
@@ -847,6 +848,14 @@
       "description": "This week on Petty Court, Max and Ivy dissect a domestic dispute rooted in carpentry and a husband's shocking disregard for his wife's craft. Is our soap-making OP an 'asshole' for losing it over a pilfered plank? Find out, as we deep dive into the sticky situation of drying lumber and dodgy responses. Story credit: r/AmItheAsshole.",
       "length_bytes": 6336045,
       "pub_date": "2026-10-19T16:33:29.840175+00:00"
+    },
+    {
+      "id": "1xae4cp",
+      "title": "Finch-y Business: My Sibling Stole My Childhood Nickname!",
+      "audio": "1xae4cp.mp3",
+      "description": "This week on Petty Court, Max and Ivy dissect a truly wild tale of sibling rivalry, identity theft (of the nickname variety), and a whole lot of family drama. Inspired by a post from r/AmItheAsshole, we ask: can you 'steal' a name, even if it's your chosen name?",
+      "length_bytes": 6515757,
+      "pub_date": "2026-10-20T14:13:02.050396+00:00"
     }
   ]
 }
