@@ -94,7 +94,8 @@
     "1x80ykf",
     "1x8eu5k",
     "1x9d4k1",
-    "1xae4cp"
+    "1xae4cp",
+    "1xauuum"
   ],
   "episodes": [
     {
@@ -856,6 +857,14 @@
       "description": "This week on Petty Court, Max and Ivy dissect a truly wild tale of sibling rivalry, identity theft (of the nickname variety), and a whole lot of family drama. Inspired by a post from r/AmItheAsshole, we ask: can you 'steal' a name, even if it's your chosen name?",
       "length_bytes": 6515757,
       "pub_date": "2026-10-20T14:13:02.050396+00:00"
+    },
+    {
+      "id": "1xauuum",
+      "title": "Bricked Up & Baffled: The Uncle, The Niece, and The Slang Snafu",
+      "audio": "1xauuum.mp3",
+      "description": "Max and Ivy dive into an r/AmItheAsshole saga featuring a 'fun uncle' whose Gen Z slang joke goes horribly wrong at a family dinner, leading to a 'bricked up' misunderstanding. Was his crude comment an innocent mistake, or did the OP overreact?",
+      "length_bytes": 6974636,
+      "pub_date": "2026-10-21T14:41:00.583309+00:00"
     }
   ]
 }

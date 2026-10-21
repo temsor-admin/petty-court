@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 14:13:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 14:41:00 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>Bricked Up &amp; Baffled: The Uncle, The Niece, and The Slang Snafu</title>
+      <description>Max and Ivy dive into an r/AmItheAsshole saga featuring a 'fun uncle' whose Gen Z slang joke goes horribly wrong at a family dinner, leading to a 'bricked up' misunderstanding. Was his crude comment an innocent mistake, or did the OP overreact?</description>
+      <guid isPermaLink="false">1xauuum</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1xauuum.mp3" length="6974636" type="audio/mpeg"/>
+      <pubDate>Wed, 21 Oct 2026 14:41:00 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Finch-y Business: My Sibling Stole My Childhood Nickname!</title>
       <description>This week on Petty Court, Max and Ivy dissect a truly wild tale of sibling rivalry, identity theft (of the nickname variety), and a whole lot of family drama. Inspired by a post from r/AmItheAsshole, we ask: can you 'steal' a name, even if it's your chosen name?</description>
