@@ -95,7 +95,8 @@
     "1x8eu5k",
     "1x9d4k1",
     "1xae4cp",
-    "1xauuum"
+    "1xauuum",
+    "1xcek2n"
   ],
   "episodes": [
     {
@@ -865,6 +866,14 @@
       "description": "Max and Ivy dive into an r/AmItheAsshole saga featuring a 'fun uncle' whose Gen Z slang joke goes horribly wrong at a family dinner, leading to a 'bricked up' misunderstanding. Was his crude comment an innocent mistake, or did the OP overreact?",
       "length_bytes": 6974636,
       "pub_date": "2026-10-21T14:41:00.583309+00:00"
+    },
+    {
+      "id": "1xcek2n",
+      "title": "Poultrygeist: The Raw Chicken Revenge",
+      "audio": "1xcek2n.mp3",
+      "description": "Max and Ivy dissect a sibling saga where an 18-year-old on a gap year reaches her breaking point with her messy brother and his raw chicken habits. Find out if she's the asshole for a very literal act of revenge, as chronicled on r/AmItheAsshole.",
+      "length_bytes": 6789548,
+      "pub_date": "2026-10-22T14:41:31.132284+00:00"
     }
   ]
 }
