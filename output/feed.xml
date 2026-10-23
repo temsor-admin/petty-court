@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 14:41:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 14:09:13 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>Forever Prom King: Senior Year Syndrome</title>
+      <description>This week on Petty Court, Max and Ivy dissect the internet drama of a 36-year-old man who's permanently stuck in his high school prime, much to his friend's mortification. Our letter writer finally snaps, but was he the asshole for telling his buddy to grow up? (Source: r/AmItheAsshole)</description>
+      <guid isPermaLink="false">1xco5q6</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1xco5q6.mp3" length="5266988" type="audio/mpeg"/>
+      <pubDate>Fri, 23 Oct 2026 14:09:13 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Poultrygeist: The Raw Chicken Revenge</title>
       <description>Max and Ivy dissect a sibling saga where an 18-year-old on a gap year reaches her breaking point with her messy brother and his raw chicken habits. Find out if she's the asshole for a very literal act of revenge, as chronicled on r/AmItheAsshole.</description>
