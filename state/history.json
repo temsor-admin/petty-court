@@ -97,7 +97,8 @@
     "1xae4cp",
     "1xauuum",
     "1xcek2n",
-    "1xco5q6"
+    "1xco5q6",
+    "1xdxily"
   ],
   "episodes": [
     {
@@ -883,6 +884,14 @@
       "description": "This week on Petty Court, Max and Ivy dissect the internet drama of a 36-year-old man who's permanently stuck in his high school prime, much to his friend's mortification. Our letter writer finally snaps, but was he the asshole for telling his buddy to grow up? (Source: r/AmItheAsshole)",
       "length_bytes": 5266988,
       "pub_date": "2026-10-23T14:09:13.514880+00:00"
+    },
+    {
+      "id": "1xdxily",
+      "title": "Birth Chart Boundary Buster",
+      "audio": "1xdxily.mp3",
+      "description": "Today on Petty Court, Max and Ivy unpack a wild office drama from r/AmItheAsshole where a coworker's astrological obsession crossed a seriously creepy line. Get ready to have your boundaries challenged!",
+      "length_bytes": 6127916,
+      "pub_date": "2026-10-24T13:11:58.730390+00:00"
     }
   ]
 }

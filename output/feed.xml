@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 14:09:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 13:11:58 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>Birth Chart Boundary Buster</title>
+      <description>Today on Petty Court, Max and Ivy unpack a wild office drama from r/AmItheAsshole where a coworker's astrological obsession crossed a seriously creepy line. Get ready to have your boundaries challenged!</description>
+      <guid isPermaLink="false">1xdxily</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1xdxily.mp3" length="6127916" type="audio/mpeg"/>
+      <pubDate>Sat, 24 Oct 2026 13:11:58 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Forever Prom King: Senior Year Syndrome</title>
       <description>This week on Petty Court, Max and Ivy dissect the internet drama of a 36-year-old man who's permanently stuck in his high school prime, much to his friend's mortification. Our letter writer finally snaps, but was he the asshole for telling his buddy to grow up? (Source: r/AmItheAsshole)</description>
