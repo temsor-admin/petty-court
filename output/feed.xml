@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 15:56:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:15:31 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>Projector Peril: The 'Friend' Who Tried to Sell My Tech (and My Patience)</title>
+      <description>Max and Ivy dive into an AITA story about a woman whose kindness to a lifelong friend turns into a nightmare of betrayal and attempted theft, forcing her to question the boundaries of friendship and home. Sourced from r/AmItheAsshole.</description>
+      <guid isPermaLink="false">1xgt9kd</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1xgt9kd.mp3" length="6945068" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Oct 2026 15:15:31 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Road Rage, Green Lights, and Pure Backseat Panic</title>
       <description>This week on Petty Court, Max and Ivy dissect an AITA post about a husband whose wife's extreme backseat driving phobia pushed him to the brink. Can a 'Stop!' at a green light ever be justified? Tune in for the verdict! (Source: r/AmItheAsshole)</description>

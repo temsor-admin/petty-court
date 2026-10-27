@@ -100,7 +100,8 @@
     "1xco5q6",
     "1xdxily",
     "1xe95um",
-    "1xfcxu3"
+    "1xfcxu3",
+    "1xgt9kd"
   ],
   "episodes": [
     {
@@ -910,6 +911,14 @@
       "description": "This week on Petty Court, Max and Ivy dissect an AITA post about a husband whose wife's extreme backseat driving phobia pushed him to the brink. Can a 'Stop!' at a green light ever be justified? Tune in for the verdict! (Source: r/AmItheAsshole)",
       "length_bytes": 6048428,
       "pub_date": "2026-10-26T15:56:53.706558+00:00"
+    },
+    {
+      "id": "1xgt9kd",
+      "title": "Projector Peril: The 'Friend' Who Tried to Sell My Tech (and My Patience)",
+      "audio": "1xgt9kd.mp3",
+      "description": "Max and Ivy dive into an AITA story about a woman whose kindness to a lifelong friend turns into a nightmare of betrayal and attempted theft, forcing her to question the boundaries of friendship and home. Sourced from r/AmItheAsshole.",
+      "length_bytes": 6945068,
+      "pub_date": "2026-10-27T15:15:31.321758+00:00"
     }
   ]
 }
