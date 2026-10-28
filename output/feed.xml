@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 15:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 15:51:34 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>LEGO Heist: Boyfriend Edition</title>
+      <description>Max and Ivy dissect a Reddit tale of a boyfriend who entered his girlfriend's son into a LEGO competition, but with a highly questionable motive. Was he a master strategist or just incredibly selfish? (Source: r/AmItheAsshole)</description>
+      <guid isPermaLink="false">1xh3a9l</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1xh3a9l.mp3" length="5871788" type="audio/mpeg"/>
+      <pubDate>Wed, 28 Oct 2026 15:51:34 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Projector Peril: The 'Friend' Who Tried to Sell My Tech (and My Patience)</title>
       <description>Max and Ivy dive into an AITA story about a woman whose kindness to a lifelong friend turns into a nightmare of betrayal and attempted theft, forcing her to question the boundaries of friendship and home. Sourced from r/AmItheAsshole.</description>

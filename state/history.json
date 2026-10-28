@@ -101,7 +101,8 @@
     "1xdxily",
     "1xe95um",
     "1xfcxu3",
-    "1xgt9kd"
+    "1xgt9kd",
+    "1xh3a9l"
   ],
   "episodes": [
     {
@@ -919,6 +920,14 @@
       "description": "Max and Ivy dive into an AITA story about a woman whose kindness to a lifelong friend turns into a nightmare of betrayal and attempted theft, forcing her to question the boundaries of friendship and home. Sourced from r/AmItheAsshole.",
       "length_bytes": 6945068,
       "pub_date": "2026-10-27T15:15:31.321758+00:00"
+    },
+    {
+      "id": "1xh3a9l",
+      "title": "LEGO Heist: Boyfriend Edition",
+      "audio": "1xh3a9l.mp3",
+      "description": "Max and Ivy dissect a Reddit tale of a boyfriend who entered his girlfriend's son into a LEGO competition, but with a highly questionable motive. Was he a master strategist or just incredibly selfish? (Source: r/AmItheAsshole)",
+      "length_bytes": 5871788,
+      "pub_date": "2026-10-28T15:51:34.061983+00:00"
     }
   ]
 }
