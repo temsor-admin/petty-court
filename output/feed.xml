@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 15:51:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 15:57:54 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>The Screaming Car Alarm Human: Petty Court Rules!</title>
+      <description>Max and Ivy tackle a truly *loud* r/AmItheAsshole drama where a man refuses to drive his friend due to her ear-splitting, 4-second screams. Is it a safety hazard, a petty grievance, or something more serious?</description>
+      <guid isPermaLink="false">1xi76vl</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1xi76vl.mp3" length="6140588" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Oct 2026 15:57:54 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>LEGO Heist: Boyfriend Edition</title>
       <description>Max and Ivy dissect a Reddit tale of a boyfriend who entered his girlfriend's son into a LEGO competition, but with a highly questionable motive. Was he a master strategist or just incredibly selfish? (Source: r/AmItheAsshole)</description>

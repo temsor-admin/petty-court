@@ -102,7 +102,8 @@
     "1xe95um",
     "1xfcxu3",
     "1xgt9kd",
-    "1xh3a9l"
+    "1xh3a9l",
+    "1xi76vl"
   ],
   "episodes": [
     {
@@ -928,6 +929,14 @@
       "description": "Max and Ivy dissect a Reddit tale of a boyfriend who entered his girlfriend's son into a LEGO competition, but with a highly questionable motive. Was he a master strategist or just incredibly selfish? (Source: r/AmItheAsshole)",
       "length_bytes": 5871788,
       "pub_date": "2026-10-28T15:51:34.061983+00:00"
+    },
+    {
+      "id": "1xi76vl",
+      "title": "The Screaming Car Alarm Human: Petty Court Rules!",
+      "audio": "1xi76vl.mp3",
+      "description": "Max and Ivy tackle a truly *loud* r/AmItheAsshole drama where a man refuses to drive his friend due to her ear-splitting, 4-second screams. Is it a safety hazard, a petty grievance, or something more serious?",
+      "length_bytes": 6140588,
+      "pub_date": "2026-10-29T15:57:54.404040+00:00"
     }
   ]
 }
