@@ -103,7 +103,8 @@
     "1xfcxu3",
     "1xgt9kd",
     "1xh3a9l",
-    "1xi76vl"
+    "1xi76vl",
+    "1xj9nv9"
   ],
   "episodes": [
     {
@@ -937,6 +938,14 @@
       "description": "Max and Ivy tackle a truly *loud* r/AmItheAsshole drama where a man refuses to drive his friend due to her ear-splitting, 4-second screams. Is it a safety hazard, a petty grievance, or something more serious?",
       "length_bytes": 6140588,
       "pub_date": "2026-10-29T15:57:54.404040+00:00"
+    },
+    {
+      "id": "1xj9nv9",
+      "title": "Black is the New White, or Is It? The Dog Birthday Dress Code Debacle",
+      "audio": "1xj9nv9.mp3",
+      "description": "Today, Max and Ivy dissect a truly petty Reddit saga involving a dog's 15th birthday, a mandatory all-black dress code, and one spectacularly rude party guest. Was the OP justified in their fury over deliberate disrespect? Source: r/AmItheAsshole.",
+      "length_bytes": 5482028,
+      "pub_date": "2026-10-30T15:39:47.994189+00:00"
     }
   ]
 }
