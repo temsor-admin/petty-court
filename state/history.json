@@ -107,7 +107,8 @@
     "1xj9nv9",
     "1xka8f3",
     "1xket1v",
-    "1xm6gv4"
+    "1xm6gv4",
+    "1xnoswy"
   ],
   "episodes": [
     {
@@ -973,6 +974,14 @@
       "description": "Max and Ivy dissect a shocking tale of mid-air betrayal. One partner upgrades to business class without a word, leaving the other in economy – and that's not even the worst part. Is this relationship taking off or crash-landing? Sourced from r/AmItheAsshole.",
       "length_bytes": 6650924,
       "pub_date": "2026-11-03T16:58:39.419445+00:00"
+    },
+    {
+      "id": "1xnoswy",
+      "title": "Gone Fishing: The Great Goldfish Funeral Fiasco",
+      "audio": "1xnoswy.mp3",
+      "description": "Max and Ivy dive deep into a neighborhood drama, where a polite decline to a very, *very* specific invitation leads to an unexpected aquatic-themed feud. This week's petty court case comes from r/AmItheAsshole.",
+      "length_bytes": 6293804,
+      "pub_date": "2026-11-04T16:59:05.939708+00:00"
     }
   ]
 }
