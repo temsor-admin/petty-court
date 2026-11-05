@@ -108,7 +108,8 @@
     "1xka8f3",
     "1xket1v",
     "1xm6gv4",
-    "1xnoswy"
+    "1xnoswy",
+    "1xo4ogj"
   ],
   "episodes": [
     {
@@ -982,6 +983,14 @@
       "description": "Max and Ivy dive deep into a neighborhood drama, where a polite decline to a very, *very* specific invitation leads to an unexpected aquatic-themed feud. This week's petty court case comes from r/AmItheAsshole.",
       "length_bytes": 6293804,
       "pub_date": "2026-11-04T16:59:05.939708+00:00"
+    },
+    {
+      "id": "1xo4ogj",
+      "title": "MIL's Grand Design: A Full House of Fury",
+      "audio": "1xo4ogj.mp3",
+      "description": "Today on Petty Court, Max and Ivy dissect a Reddit tale of a mother-in-law who turns a family home into a high-surveillance, high-density living situation by inviting more people to live with them without consent. Our OP considers a dramatic escape from the MIL's iron grip. (Source: r/AmItheAsshole)",
+      "length_bytes": 6186668,
+      "pub_date": "2026-11-05T17:41:13.250925+00:00"
     }
   ]
 }

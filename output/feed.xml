@@ -12,7 +12,7 @@
       <link>https://serdarkucuklu.github.io/petty-court</link>
     </image>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 16:59:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 17:41:13 +0000</lastBuildDate>
     <itunes:author>Petty Court</itunes:author>
     <itunes:category text="Comedy"/>
     <itunes:image href="https://serdarkucuklu.github.io/petty-court/cover.png"/>
@@ -22,6 +22,14 @@
       <itunes:email>serdarkucuklu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>Two hosts react to the internet's pettiest revenge and drama, every day.</itunes:summary>
+    <item>
+      <title>MIL's Grand Design: A Full House of Fury</title>
+      <description>Today on Petty Court, Max and Ivy dissect a Reddit tale of a mother-in-law who turns a family home into a high-surveillance, high-density living situation by inviting more people to live with them without consent. Our OP considers a dramatic escape from the MIL's iron grip. (Source: r/AmItheAsshole)</description>
+      <guid isPermaLink="false">1xo4ogj</guid>
+      <enclosure url="https://serdarkucuklu.github.io/petty-court/1xo4ogj.mp3" length="6186668" type="audio/mpeg"/>
+      <pubDate>Thu, 05 Nov 2026 17:41:13 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Gone Fishing: The Great Goldfish Funeral Fiasco</title>
       <description>Max and Ivy dive deep into a neighborhood drama, where a polite decline to a very, *very* specific invitation leads to an unexpected aquatic-themed feud. This week's petty court case comes from r/AmItheAsshole.</description>
